@@ -1,5 +1,4 @@
 # projet-Eric-Mass
 projet de négociation achat 
-caca faut lancer le interface
-lien pour tuto git 
-https://en.wikipedia.org/wiki/Kirkification
+
+Ce projet a pour but de donner un pourcentage de reussite a une négociation en fonction des différents arguments que l'on compte utiliser et du contexte
